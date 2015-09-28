@@ -1,7 +1,5 @@
 =Mon titre
 ==Chapitre1
 //TODO : Ecrire le chap 1
-°°°°°°°°°°°°°°°°°°°°°
-Coucou ceci est un proverbe
-°°°°°°°°°°°°°°°°°°°°°
+
 
